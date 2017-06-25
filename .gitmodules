@@ -1,0 +1,3 @@
+[submodule "DeepLearning_Practice"]
+	path = DeepLearning_Practice
+	url = git@github.com:maheshbabugorantla/DeepLearning_Practice.git
