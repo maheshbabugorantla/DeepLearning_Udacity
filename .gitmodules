@@ -1,3 +1,6 @@
 [submodule "DeepLearning_Practice"]
 	path = DeepLearning_Practice
 	url = git@github.com:maheshbabugorantla/DeepLearning_Practice.git
+[submodule "Project_3_TV_Script_Generation"]
+	path = Project_3_TV_Script_Generation
+	url = https://github.com/maheshbabugorantla/Project_3_TV_Script_Generation.git
